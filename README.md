@@ -1,21 +1,7 @@
-# Digital Innovation One - Prática .NET
+# Desafio de Projeto - cadastro de séries
 
-## Criando uma APP de cadastro em memória
+Projeto original: https://github.com/elizarp/dio-dotnet-poo-lab-2
 
-[Slides](dio-dotnet-poo-lab-2.pdf)
+Melhorias: formatação de código e número de episódios
 
-## Contato
-
-Eliézer Zarpelão
-
-Linkedin:  [br.linkedin.com/in/eliezerzarpelao](http://br.linkedin.com/in/eliezerzarpelao)
-
-WebSite:  [eliezerzarpelao.eti.br](https://eliezerzarpelao.eti.br)
-
-Instagram:  [instagram.com/eliezerzarpelao](https://instagram.com/eliezerzarpelao)
-
-YouTube:  [youtube.com/channel/UC47RD-s-U6fpKTY0soIUn6g](https://www.youtube.com/channel/UC47RD-s-U6fpKTY0soIUn6g/featured?view_as=subscriber)
-
-Twitter:  [@eliezerzarpelao](https://twitter.com/eliezerzarpelao)
-
-Github:  [github.com/elizarp](https://github.com/elizarp)
+Para fazer: corrigir digitações equivocadas no ano e quantidade de episódios.

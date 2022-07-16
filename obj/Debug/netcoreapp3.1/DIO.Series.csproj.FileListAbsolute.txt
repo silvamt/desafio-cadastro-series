@@ -11,3 +11,17 @@
 /home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.dll
 /home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.pdb
 /home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.genruntimeconfig.cache
+D:\dio\06 .NET e c #\14 desafio series\desafio-cadastro-series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+D:\dio\06 .NET e c #\14 desafio series\desafio-cadastro-series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+D:\dio\06 .NET e c #\14 desafio series\desafio-cadastro-series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+D:\dio\06 .NET e c #\14 desafio series\desafio-cadastro-series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+D:\dio\06 .NET e c #\14 desafio series\desafio-cadastro-series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+D:\dio\06 .NET e c #\14 desafio series\desafio-cadastro-series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+D:\dio\06 .NET e c #\14 desafio series\desafio-cadastro-series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.AssemblyReference.cache
+D:\dio\06 .NET e c #\14 desafio series\desafio-cadastro-series\obj\Debug\netcoreapp3.1\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\dio\06 .NET e c #\14 desafio series\desafio-cadastro-series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+D:\dio\06 .NET e c #\14 desafio series\desafio-cadastro-series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+D:\dio\06 .NET e c #\14 desafio series\desafio-cadastro-series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+D:\dio\06 .NET e c #\14 desafio series\desafio-cadastro-series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+D:\dio\06 .NET e c #\14 desafio series\desafio-cadastro-series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+D:\dio\06 .NET e c #\14 desafio series\desafio-cadastro-series\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
